@@ -1,3 +1,10 @@
+/*Create the method public static void
+combine(ArrayList<Integer> first, ArrayList<Integer> second)
+that inserts the items in a list called second to a list called
+ first. The order of the items can be anything and the same
+  item can appear in the list more than once. An example on
+  using the method:
+ */
 import java.util.ArrayList; 
 
 public class w4_e1 {

@@ -1,3 +1,7 @@
+/*The University of Helsinki students use so-called Lyyra cards to pay for their meals in student cafeterias. In this assignment, we
+ implement the class LyyraCard that simulates the Lyyra card.
+ */
+
 public class Lyra {
     private double balance;
   
